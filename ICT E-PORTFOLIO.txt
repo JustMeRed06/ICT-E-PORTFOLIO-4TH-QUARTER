@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head> <title> ICT PORTFOLIO </title>
+<script type="text/JavaScript">
+function show_alert()
+{alert ("Welcome to my Portfolio!");}
+</script>
+<body style="background-image:url('BACKGROUND.jpg'); text-align:center;">
+<h1> ICT PORTFOLIO </h1>
+<h3> Jared Enzo B. Alcain | 9-Fidelity <br>
+03/15/25 | Ms. Uminga </h3>
+<input type="button" onclick="show_alert()"
+value="show alert box"/>
+<h2> ABOUT </h2>
+<p> This portfolio contains all activities from 3rd to 4th quarter </p>
+
+<h2> 3RD QUARTER </h2>
+<h3> KUNDIMAN DUET </h3>
+<img src="KUNDIMAN DUET.jpg" style="width:30%;height:45%;margin-left:15px;">
+<br><br><br><br><br><br> <p> REPRESENTATIVE: EARL FRANCIS IGNACIO </p> <br><br><br><br><br><br>
+</body>
+</html>
